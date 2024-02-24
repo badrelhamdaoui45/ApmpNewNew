@@ -1,0 +1,1 @@
+import{_ as t}from"./common-layout.d7132faa.js";import{_ as n,e as s,B as a,o as _,L as c}from"./entry.e63a48cf.js";const r={};function m(o,f){const e=t;return _(),s(e,{class:"fade-in-home"},{default:a(()=>[c(o.$slots,"default")]),_:3})}const p=n(r,[["render",m]]);export{p as default};
